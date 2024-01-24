@@ -9,7 +9,7 @@ body {
     left: 0;
     bottom: 0;
     padding: 12px;
-    width: 350px;
+    width: 400px;
     background-color: #000000;
 }
 
@@ -32,8 +32,8 @@ body {
 
 .sidebar nav ul {
     list-style: none;
-    margin-top: 20px;
-    padding: 0 20px 10px 20px;
+    margin-top: 35px;
+    padding: 0 20px 30px 20px;
 }
 
 .sidebar ul li {
@@ -64,7 +64,7 @@ body {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    padding: 4px 8px;
+    padding: 4px 6px;
     color: #b3b3b3;
     font-weight: 600;
     font-size: 14px;
@@ -82,7 +82,7 @@ body {
     color: #b3b3b3;
     background-color: transparent;
     border: 0px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     font-family: "DM Sans", sans-serif;
     text-align: center;
@@ -92,7 +92,7 @@ body {
 }
 
 .library .library-button .fa {
-    font-size: 20px;
+    font-size: 24px;
     margin-right: 10px;
     font-weight: 300;
     padding-right: 8px;
@@ -132,7 +132,7 @@ body {
 }
 
 .section-playlist-content .subtitle {
-    font-weight: 500;
+    font-weight: 600;
     font-size: 12px;
 }
 
@@ -211,7 +211,7 @@ body {
     margin-left: 20px;
     font-family: "DM Sans", sans-serif;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 550;
 }
 
 .footer .inscreva-se {
@@ -232,10 +232,10 @@ body {
     background-color: #fff;
     color: black;
     border-radius: 24px;
-    padding: 10px 26px;
+    padding: 15px 30px;
     font-weight: 700;
     font-family: "DM Sans", sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     margin-right: 40px;
 }
 
@@ -260,10 +260,11 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-left: 32px;
 }
 
 .header-navigation .navigation .arrow-left {
-    margin-right: 1.25rem;
+    margin-right: 1rem;
 }
 
 .arrow-left, .arrow-right {
