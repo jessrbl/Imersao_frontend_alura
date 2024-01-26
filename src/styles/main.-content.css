@@ -4,8 +4,8 @@
 .main-container {
     max-width: 80vw;
     height: 100vh;
-    margin-left: 320px;
-    margin-right: 56px;
+    margin-left: 380px;
+    margin-right: 3px;
 }
 
 .header__navigation {
@@ -26,7 +26,9 @@
 
 .header__navigation .navigation .arrow-left {
     margin-right: 1.25rem;
+
 }
+
 
 .arrow-left,
 .arrow-right {
@@ -52,7 +54,7 @@
     align-items: center;
     width: 364px;
     height: 48px;
-    margin-left: 8px;
+    margin-left: 12px;
     background-color: var(--bg-preta-color);
     border-radius: 500px;
     border: 1px solid transparent;
@@ -113,7 +115,7 @@
 
 /* PLAYLIST */
 .playlist-container {
-    height: 68vh;
+    height: 80vh;
     padding-top: 16px;
     margin: 10px;
     border-radius: 10px;
