@@ -12,10 +12,13 @@ function displayResults(results) {
   hidePlaylists();
   const artistImage = document.getElementById("artist-img");
   const artistName = document.getElementById("artist-name");
+  const artistGenre = document.getElementById("genre"); // Adicionado para pegar o elemento do gênero
+
 
   results.forEach((element) => {
     artistImage.src = element.urlImg;
     artistName.innerText = element.name;
+    artistGenre.innerText = element.genre;
   });
   resultArtist.classList.remove("hidden");
 }
