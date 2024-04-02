@@ -39,6 +39,8 @@ ___
 - ``CSS3``
 - ``JavaScript``
 
+___
+
 ## Status
 
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=FF69B4&style=for-the-badge)
