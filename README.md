@@ -1,17 +1,21 @@
-# Imersão Front-End Alura 
-## <span style="color:#1DB954;">Clone do Spotify</span> <i class="fab fa-spotify" style="color: #1DB954;"></i>
+<h1 align="center"> Imersão Front-End Alura </h1>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-nK9yTfo8Ez0DR7WmNLehq1zZgFZA/BEmL3d3q4L4RgjAuFAT+Tp1bCq5RV76fN" crossorigin="anonymous">
 
 
 <div style="text-align: justify;">
 
-#### Descrição
-Este é um projeto desenvolvido durante a semana de Imersão da Alura, inspirado no layout e funcionalidades do Spotify. 
+## Descrição
+Este foi um projeto inspirado no layout e funcionalidades do Spotify, desenvolvido durante a semana de Imersão da Alura.
 
 ___
 
-#### Aulas 
+## Imagem do projeto
+
+![spotify alura](https://github.com/jessrbl/Imersao_frontend_alura/assets/69112331/d4ca5bb2-dca2-444b-b9ca-825cb52e1a47)
+
+___
+
+## Aulas 
 - [X] Revisão: HTML, CSS e JS na prática
 - [X] Estilo Avançado e Posicionamento: Transformando Layouts
 - [X] Layout Flexbox, Pseudo-classes e Responsividade em CSS
@@ -20,9 +24,9 @@ ___
 
 ___
 
-#### Aprimoramento
+## Aprimoramento
 
-Detalhes do site do Spotify que não estavam contemplados nas aulas, mas que incluí no código:
+Detalhes do site do Spotify que não estavam contemplados nas aulas, mas que optei por incluir no código:
 
 - [X] Adicionei rolagem (scroll) na *sidebar* para que a *section-podcast* possa tornar-se visível ao rolar a barra de rolagem.
 - [X] Incluí uma classe *container__links* para incluir
@@ -32,10 +36,14 @@ todos os links que constam na sidebar da página do Spotify (no projeto só cons
 
 ___
 
-#### Tecnologias Utilizadas
-- HTML5
-- CSS3
-- JavaScript
+## Tecnologias Utilizadas
+- ``HTML5``
+- ``CSS3``
+- ``JavaScript``
+
+## Status
+
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=FF69B4&style=for-the-badge)
 
 
 </div>
