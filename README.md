@@ -1,3 +1,7 @@
+![3-EDITED](https://github.com/jessrbl/Imersao_frontend_alura/assets/69112331/49100bd7-fbd9-436e-b690-f430719e9a56)
+
+___
+
 ## Imersão Front-End - Alura
 
 <div style="text-align: justify;">
