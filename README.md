@@ -1,6 +1,4 @@
-<h1 align="center"> Imersão Front-End Alura </h1>
-
-
+## Imersão Front-End - Alura
 
 <div style="text-align: justify;">
 
