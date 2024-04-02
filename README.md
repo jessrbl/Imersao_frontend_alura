@@ -1,4 +1,5 @@
-![3-EDITED](https://github.com/jessrbl/Imersao_frontend_alura/assets/69112331/49100bd7-fbd9-436e-b690-f430719e9a56)
+
+![pic](https://github.com/jessrbl/Imersao_frontend_alura/assets/69112331/57ade176-7a85-4515-913f-065d270905df)
 
 ___
 
