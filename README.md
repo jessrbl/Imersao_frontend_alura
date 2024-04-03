@@ -1,10 +1,12 @@
 <div style="text-align: right;">
-[EN](README-EN.md)
-</div>
+![README-EN](README-EN.md)
+
 
 ## Imersão Front-End - Alura
 
 <div style="text-align: justify;">
+
+___
 
 ## Descrição
 Este foi um projeto inspirado no layout e funcionalidades do Spotify, desenvolvido durante a semana de Imersão da Alura.
@@ -48,6 +50,23 @@ ___
 ## Status
 
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=FF69B4&style=for-the-badge)
+
+___
+
+<h2> ✨ Author</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jessrbl">
+        <img src="https://avatars3.githubusercontent.com/jessrbl" width="100px;" alt="Foto da Jéssica F. no GitHub"/><br>
+        <sub>
+          <b>Jéssica F. Rebelo</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 </div>
