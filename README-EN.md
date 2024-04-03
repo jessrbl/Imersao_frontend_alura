@@ -61,8 +61,5 @@ ___
   </tr>
 </table>
 
-![jessrbl](https://github.com/jessrbl/Imersao_frontend_alura/assets/69112331/35399e94-527a-43c0-86a2-0285a68b1720)
-
-
 
 
