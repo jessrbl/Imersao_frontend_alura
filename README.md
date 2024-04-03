@@ -1,4 +1,4 @@
-<h6> `<a href = "https://github.com/jessrbl/Imersao_frontend_alura/blob/main/README-EN.md"> English version </a>`</h6>
+<h6> <a href = "https://github.com/jessrbl/Imersao_frontend_alura/blob/main/README-EN.md"> English version </a></h6>
 
 
 ## Imersão Front-End - Alura
