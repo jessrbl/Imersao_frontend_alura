@@ -1,5 +1,4 @@
-<div style="text-align: right;">
-![README-EN](README-EN.md)
+<h6> <a href = "https://github.com/jessrbl/Imersao_frontend_alura/blob/main/README-EN.md"> `English version` </a></h6>
 
 
 ## Imersão Front-End - Alura
@@ -71,5 +70,4 @@ ___
 
 </div>
 
-![jessrbl](https://github.com/jessrbl/Imersao_frontend_alura/assets/69112331/55096e48-63ff-4194-ac93-c0980893c313)
 
