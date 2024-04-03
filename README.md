@@ -1,7 +1,6 @@
-
-![pic](https://github.com/jessrbl/Imersao_frontend_alura/assets/69112331/57ade176-7a85-4515-913f-065d270905df)
-
-___
+<div style="text-align: right;">
+[EN](README-EN.md)
+</div>
 
 ## Imersão Front-End - Alura
 
@@ -52,3 +51,6 @@ ___
 
 
 </div>
+
+![jessrbl](https://github.com/jessrbl/Imersao_frontend_alura/assets/69112331/55096e48-63ff-4194-ac93-c0980893c313)
+
