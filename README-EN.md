@@ -46,6 +46,21 @@ ___
 
 ___
 
+<h2> ✨ Author</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jessrbl">
+        <img src="https://avatars3.githubusercontent.com/jessrbl" width="100px;" alt="Foto da Jéssica F. no GitHub"/><br>
+        <sub>
+          <b>Jéssica F. Rebelo</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ![jessrbl](https://github.com/jessrbl/Imersao_frontend_alura/assets/69112331/35399e94-527a-43c0-86a2-0285a68b1720)
 
 
