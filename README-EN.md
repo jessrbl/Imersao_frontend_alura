@@ -1,5 +1,6 @@
-# Front-End Immersion - Alura
+## Front-End Immersion - Alura
 
+<div style="text-align: justify;">
 ___
 
 ## Description
